@@ -13,36 +13,17 @@ By practicing through this program, you will be **equipped with a strong foundat
 and **develop the skills necessary to thrive in this fast-paced industry**.  
 You will also **gain fundamental skills applicable across multiple security domains**.  
 
-## Topics Covered  
+---
 
-This program covers a wide range of topics, including:  
+# Topics Covered  
 
-### **🔹 Web Development & Scripting**  
-- HTML, CSS, Python, Flask  
-- Automation scripting for security  
-
-### **🔹 System & Network Security**  
-- Linux fundamentals  
-- Network security & cryptography  
-- OSI/TCP models & threat intelligence  
-
-### **🔹 Security Operations & Incident Response**  
-- SOC fundamentals  
-- SIEM, SOAR, EDR  
-- Security investigations & log analysis  
-
-### **🔹 Penetration Testing & Vulnerability Assessments**  
-- Web pentesting  
-- API security  
-- Active Directory security  
-- Mobile application security  
-
-### **🔹 Cloud Security & DevSecOps**  
-- AWS/Azure security  
-- CI/CD security  
-- SSDLC & security automation  
-
-🚀 **More advanced modules** covering different aspects of **security engineering, software development, and risk management** will be introduced over time.  
+### **🔹 Fundamentals & Basics**  
+### **🔹 Web & Application Security**  
+### **🔹 Infrastructure & Cloud Security**  
+### **🔹 Security Operations (SOC L1, L2, L3)**  
+### **🔹 Penetration Testing & Red Teaming**  
+### **🔹 Governance, Risk & Compliance (GRC)**  
+### **🔹 DevSecOps & Automation**  
 
 ---
 
@@ -76,3 +57,4 @@ Students are encouraged to **explore and learn** through:
 > However, structured evaluations can be invaluable."**  
 
 📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](https://www.linkedin.com/in/manas-ramesh-9a7ba4149/).**  
+
