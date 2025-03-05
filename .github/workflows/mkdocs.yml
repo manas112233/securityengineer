@@ -1,0 +1,26 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branches:
+      - main  # Change this if your repo uses a different branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install MkDocs & Material Theme
+        run: |
+          pip install mkdocs-material
+
+      - name: Deploy to GitHub Pages
+        run: |
+          mkdocs gh-deploy --force
