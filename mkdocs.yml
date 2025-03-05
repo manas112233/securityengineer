@@ -13,6 +13,10 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  nav:
+    - Introduction and Overview: index.md
+    - 1.Web Dev and Python basics : temp.md
+
   palette:
     - scheme: default
       toggle:
