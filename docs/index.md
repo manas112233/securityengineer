@@ -75,4 +75,4 @@ Students are encouraged to **explore and learn** through:
 > Take charge of your own learning, practice consistently, and grow at your own pace.  
 > However, structured evaluations can be invaluable."**  
 
-📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](#).**  
+📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](https://www.linkedin.com/in/manas-ramesh-9a7ba4149/).**  
