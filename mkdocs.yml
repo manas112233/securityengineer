@@ -15,7 +15,7 @@ theme:
   language: en
   nav:
     - Introduction and Overview: index.md
-    - 1.Web Dev and Python basics : temp.md
+    - 1.Web Dev and Python basics: temp.md
 
   palette:
     - scheme: default
