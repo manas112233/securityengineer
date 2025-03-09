@@ -91,9 +91,36 @@ This one-week program focuses on automating security tasks using Python. Student
 
 📌 **[View Detailed Program](./../7securityautomation)**  
 
+---  
+
+## Level 7: SOC Training  
+
+**Description:**  
+This eight-week program is designed to equip participants with the knowledge and skills necessary to operate effectively in a Security Operations Center (SOC). Students will learn incident response, threat detection, and SOC architecture through hands-on tasks and research.  
+
+### **Topics Covered:**  
+- **Week 1:** Introduction to SOC  
+  - SOC levels, procedures, ticketing systems, and incident workflows.  
+- **Week 2:** SOC Tools and Technologies  
+  - SIEM, SOAR, EDR, XDR, threat intelligence, log integration.  
+- **Week 3:** Hands-on Incident Investigation  
+  - Investigating real-world security incidents.  
+- **Week 4:** WebStrike Blue Team Lab  
+  - Log analysis, security detection rules, YARA & Sigma rules.  
+- **Week 5:** TryHackMe Rooms  
+  - Hands-on SOC challenges on TryHackMe.  
+- **Week 6:** Configuring ELK Stack  
+  - Setting up ELK stack and integrating security logs.  
+- **Week 7:** SOC Challenges  
+  - WebStrike, QRadar, Pyramid of Pain, Wazuh SIEM.  
+- **Week 8:** SOC Architecture & SOAR Playbooks  
+  - Building a SOC environment, integrating security tools, creating a SOAR playbook.  
+
+📌 **[View Detailed Program](./../8soc)**  
+
 ---
 
-## Level 7: **(To Be Updated)**
+## Level 8: **(To Be Updated)**
 
 **Description:**
 TBU
