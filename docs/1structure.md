@@ -74,9 +74,26 @@ This three-week program provides a deep dive into cryptographic principles, algo
 
 [View Detailed Program](./../6crypto)  
 
+---  
+
+## Level 6: Security Automation and Advanced Topics  
+
+**Description:**  
+This one-week program focuses on automating security tasks using Python. Students will develop practical skills in network simulation, data analysis, and file integrity monitoring with Jira API integration.  
+
+### **Topics Covered:**  
+- **Day 1-2:** Network Simulation and Scripting with Python  
+  - Socket programming, network scanning, log analysis.  
+- **Day 3-4:** Data Analysis and Visualization with Pandas and Matplotlib  
+  - Security data analysis, trend identification, visualization.  
+- **Day 5-7:** File Integrity Monitoring and Incident Reporting with Jira API  
+  - File hash monitoring, API integration for automated incident reporting.  
+
+📌 **[View Detailed Program](./../7securityautomation)**  
+
 ---
 
-## Level 6: **(To Be Updated)**
+## Level 7: **(To Be Updated)**
 
 **Description:**
 TBU
