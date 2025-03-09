@@ -33,11 +33,23 @@ This level introduces students to Linux system administration and shell scriptin
 
 ---
 
-## Level 3: **(To Be Updated)**
+## Level 3: Basics of Cybersecurity
 
 **Description:**
-This level will focus on security-related topics and advanced applications of web development and Python.
+This level provides a foundational understanding of cybersecurity concepts, security threats, and practical tools used in the field. By completing this level, students will:
+- Learn key security principles, such as the CIA Triad and security vulnerabilities.
+- Understand cybersecurity threats, including malware, DoS attacks, and OSINT techniques.
+- Gain hands-on experience with threat intelligence tools and cybersecurity best practices.
+- Prepare for advanced security topics and career opportunities in cybersecurity.
 
+[View Detailed Program](./../4basicsofsec)
+
+---
+
+## Level 4: **(To Be Updated)**
+
+**Description:**
+TBU
 ---
 
 Stay tuned for upcoming updates! 🚀
