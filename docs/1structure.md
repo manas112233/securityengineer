@@ -46,7 +46,20 @@ This level provides a foundational understanding of cybersecurity concepts, secu
 
 ---
 
-## Level 4: **(To Be Updated)**
+## Level 4: Networking & Network Security
+
+**Description:**
+This level focuses on networking fundamentals and network security concepts relevant to cybersecurity. Students will:
+- Learn networking protocols, addressing schemes, and network security technologies.
+- Understand network devices, encryption, and intrusion detection/prevention systems.
+- Gain hands-on experience with network monitoring, analysis, and defense strategies.
+- Develop practical skills for securing networks and mitigating threats.
+
+[View Detailed Program](./../5netwrk)
+
+---
+
+## Level 5: **(To Be Updated)**
 
 **Description:**
 TBU
