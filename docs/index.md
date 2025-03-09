@@ -58,4 +58,4 @@ Students are encouraged to **explore and learn** through:
 
 📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](https://www.linkedin.com/in/manas-ramesh-9a7ba4149/).**  
 
-📌 **Next: [Course Index](./structure)** 🚀
+📌 **Next: [Course Index](./1structure)** 🚀
