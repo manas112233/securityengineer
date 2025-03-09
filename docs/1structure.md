@@ -1,4 +1,4 @@
-# Course Index: Web Development, Python & Security
+# Course Index
 
 ## Level 1: Web Development & Python Basics
 
@@ -16,7 +16,7 @@ This level focuses on building a strong foundation in web development and Python
 - Python Libraries & Web Scraping
 - Hosting and Deploying Projects
 
-[View Detailed Program](./1web dev and python)
+[View Detailed Program](./2web%20dev%20and%20python)
 
 ---
 
