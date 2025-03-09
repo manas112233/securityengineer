@@ -120,7 +120,24 @@ This eight-week program is designed to equip participants with the knowledge and
 
 ---
 
-## Level 8: **(To Be Updated)**
+## Level 8: Modern Web Applications and Protocol Basics  
+
+**Description:**  
+This one-week program introduces students to the fundamentals of modern web applications and protocols. Through a combination of theoretical learning and practical exercises, participants will gain insights into web technologies, HTTP protocols, and web application architecture.  
+
+### **Topics Covered:**  
+- **Day 1-2:** Web Fundamentals and Developer Tools  
+  - Understanding the web, browser developer tools, client-side technologies.  
+- **Day 3-4:** HTTP, HTTPS, and Security Mechanisms  
+  - HTTP methods, status codes, headers, HTTPS vs HTTP, HSTS.  
+- **Day 5-7:** Web Application Architecture and Security  
+  - Databases, monolithic vs microservices, reconnaissance techniques, OWASP Top 10.  
+
+📌 **[View Detailed Program](./../9modernwebapps)**  
+
+---
+
+## Level 9: **(To Be Updated)**
 
 **Description:**
 TBU
