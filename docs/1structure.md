@@ -41,3 +41,5 @@ This level will focus on security-related topics and advanced applications of we
 ---
 
 Stay tuned for upcoming updates! 🚀
+
+📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](https://www.linkedin.com/in/manas-ramesh-9a7ba4149/).**  
