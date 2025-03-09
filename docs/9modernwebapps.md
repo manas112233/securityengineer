@@ -121,3 +121,7 @@ By completing this program, students will:
 ✅ Be familiar with best practices in **web security and OWASP guidelines**.  
 
 ---
+
+📌 **Next: [Course Index](./../1structure)** 🚀  
+
+📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](https://www.linkedin.com/in/manas-ramesh-9a7ba4149/).**  
