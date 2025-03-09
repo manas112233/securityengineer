@@ -20,10 +20,16 @@ This level focuses on building a strong foundation in web development and Python
 
 ---
 
-## Level 2: **(To Be Updated)**
+## Level 2: Linux & Shell Scripting
 
 **Description:**
-This level will build upon the knowledge gained in Level 1 and introduce more intermediate topics.
+This level introduces students to Linux system administration and shell scripting. By practicing these concepts, students will:
+- Gain hands-on experience with Linux commands and system management.
+- Learn to navigate the Linux filesystem and manage processes effectively.
+- Understand security permissions and user management.
+- Develop automation skills using shell scripting.
+
+[View Detailed Program](./../3linux)
 
 ---
 
