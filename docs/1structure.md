@@ -57,9 +57,26 @@ This level focuses on networking fundamentals and network security concepts rele
 
 [View Detailed Program](./../5netwrk)
 
+---  
+
+## Level 5: Cryptography  
+
+**Description:**  
+This three-week program provides a deep dive into cryptographic principles, algorithms, and applications. Participants will explore key cryptographic concepts, encryption techniques, hashing methods, and real-world security implementations. The program emphasizes hands-on learning using widely adopted cryptographic tools and techniques.  
+
+**Topics Covered:**  
+- Cryptographic Fundamentals (Symmetric & Asymmetric Encryption, Classical Ciphers, Key Distribution)  
+- Modern Cryptographic Principles (HTTPS, TLS, Certificate Authorities)  
+- Encryption Techniques & Hashing (AES, RSA, MD5, SHA-256, Digital Signatures)  
+- Cryptanalysis & Security Attacks (Brute Force, Rainbow Table, Birthday Attack)  
+- Secure Communication & Key Management (Diffie-Hellman, Blockchain & Cryptography)  
+- Cryptographic Compliance & Standards (FIPS, NIST, GDPR Encryption Policies)  
+
+[View Detailed Program](./../6crypto)  
+
 ---
 
-## Level 5: **(To Be Updated)**
+## Level 6: **(To Be Updated)**
 
 **Description:**
 TBU
@@ -68,3 +85,4 @@ TBU
 Stay tuned for upcoming updates! 🚀
 
 📩 **If you require a quick on-call interview or guidance from a security professional, please contact via [LinkedIn](https://www.linkedin.com/in/manas-ramesh-9a7ba4149/).**  
+
